@@ -81,13 +81,14 @@ I'm obsessed with making things and even more obsessed with making things better
 
 <!--START_SECTION:waka-->
 ```text
-React      15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-Ruby on Rails         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+JavaScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+Python       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
+
 
 #### 1.1.5. Github Stats
 
