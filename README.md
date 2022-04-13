@@ -93,5 +93,6 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Kevinmuriuki&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+### 1.1.6 Most Languages Used
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinmuriuki&layout=compact&theme=tokyonight" alt="my_stats"/>
 
