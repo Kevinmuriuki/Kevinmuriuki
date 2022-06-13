@@ -1,6 +1,6 @@
 ## 1. Hi I'm Kevin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Kevin Muriuki a Full Stack Web Developer and a tudent currently enrolled in a Diploma program at Zetech University. I Spend most of time coding and learning new skills from Youtube.
+I'm Kevin Muriuki a Full Stack Web Developer and a tudent currently enrolled in a Diploma program at Zetech University and persuing a self-tought full-stack developer nano-degree at Udacity sponserd by ALX. I Spend most of time coding and learning new skills from Youtube, Udacity, Udemy, Frontend masters and Pluralsight.
 
 :mailbox: Reach me out!
 
