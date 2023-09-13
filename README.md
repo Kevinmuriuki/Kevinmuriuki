@@ -1,6 +1,6 @@
 ## 1. Hi I'm Kevin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Kevin Muriuki a Full Stack Web Developer and a tudent currently enrolled in a Diploma program at Zetech University and persuing a self-tought full-stack developer nano-degree at Udacity sponserd by ALX. I Spend most of time coding and learning new skills from Youtube, Udacity, Udemy, Frontend masters and Pluralsight.
+I'm Kevin Muriuki a Full Stack Web Developer and a student currently enrolled in a Diploma program at Zetech University and pursuing a self-taught full-stack developer nano-degree at Udacity sponsored by ALX. I Spend most of my time coding and learning new skills from YouTube, Udacity, Udemy, Frontend Masters, and Pluralsight.
 
 :mailbox: Reach me out!
 
@@ -17,7 +17,7 @@ I'm Kevin Muriuki a Full Stack Web Developer and a tudent currently enrolled in 
 
 #### 1.0.1. Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<!-- TODO: Make technologies links take you to repositories -->
 
 [![HTML Badge](https://img.shields.io/badge/-HTML5-c8510e?style=for-the-badge&labelColor=black&logo=html5&logoColor=c8510e)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS3-254bdd?style=for-the-badge&labelColor=black&logo=css3&logoColor=254bdd)](#)
@@ -74,7 +74,7 @@ I'm obsessed with making things and even more obsessed with making things better
 
 - HTML5 For Web Designers, A Book Apart
 - Responsive Web Design, A Book Apart
-- Modile First, A book Apart
+- Mobile First, A Book Apart
 - JavaScript and JQuery: Interactive Front-End Web Development
 
 #### 1.1.3. Coding Stats
